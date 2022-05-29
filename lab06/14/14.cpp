@@ -1,7 +1,7 @@
 #include <iostream>
 #include <conio.h>
 #include <string>
-
+#include <windows.h>
 
 
 using namespace std;
